@@ -4,16 +4,16 @@ This is a Python implementation of the classic Pong game, featuring a Q-learning
 ## Installation
 To install the required libraries, run the following command:
 
-pip install pygame
+`pip install pygame`
 
-pip install matplotlib
+`pip install matplotlib`
 
-pip install numpy
+`pip install numpy`
 
 ## Usage
 To start the game, run the following command:
 
-python main.py
+`python main.py`
 
 ## Game Modes
 
