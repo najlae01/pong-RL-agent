@@ -17,26 +17,28 @@ python main.py
 
 ## Game Modes
 
-<img align="left" alt="Modes" width="700px" src="readme_images/modes.png" />
+<img align="center" alt="Modes" width="600px" src="readme_images/modes.png" />
 
 ### Agent RL vs Agent AI
 In this mode, the Q-learning agent plays against an AI player. The agent uses the Q-learning algorithm to learn from its actions and improve its performance over time.
 
-<img align="left" alt="Modes" width="700px" src="readme_images/RLvsAI.png" />
+<img align="center" alt="Modes" width="600px" src="readme_images/RLvsAI.png" />
 
-<img align="left" alt="Modes" width="700px" src="readme_images/RLvsAI_plot.png" />
+<img align="center" alt="Modes" width="600px" src="readme_images/RLvsAI_plot.png" />
 
 ### Agent RL vs Human
 In this mode, the Q-learning agent plays against a human player. The agent learns from its actions and tries to beat the human player.
 
-<img align="left" alt="Modes" width="700px" src="readme_images/RLvsHUMAN.png" />
+<img align="center" alt="Modes" width="600px" src="readme_images/RLvsHUMAN.png" />
 
-<img align="left" alt="Modes" width="700px" src="readme_images/RLvsHUMAN_plot.png" />
+<img align="center" alt="Modes" width="600px" src="readme_images/RLvsHUMAN_plot.png" />
 
 ### Agent RL vs Agent RL
 In this mode, two Q-learning agents play against each other. Both agents learn from their actions and try to beat each other.
-<img align="left" alt="Modes" width="700px" src="readme_images/RLvsRL.png" />
 
+<img align="center" alt="Modes" width="600px" src="readme_images/RLvsRL.png" />
+
+<img align="center" alt="Modes" width="600px" src="readme_images/RLvsRL_plot.png" />
 
 ## Conclusion
 In conclusion, this Pong game with Q-learning agent is a fun and interactive way to learn about reinforcement learning and the Q-learning algorithm. The game allows you to play against an AI player or a human player, or even watch two agents play against each other. The agent's performance can be analyzed using the reward plot, which shows how the agent improves over time.
