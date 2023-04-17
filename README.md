@@ -17,9 +17,12 @@ python main.py
 
 ## Game Modes
 
+<img align="left" alt="Modes" width="1000px" src="readme_images/modes.png" />
+
 ### Agent RL vs Agent AI
 In this mode, the Q-learning agent plays against an AI player. The agent uses the Q-learning algorithm to learn from its actions and improve its performance over time.
-
+<img align="left" alt="Modes" width="1000px" src="readme_images/RLvsAI.png" />
+<img align="left" alt="Modes" width="1000px" src="readme_images/RLvsAI_plot.png" />
 ### Agent RL vs Human
 In this mode, the Q-learning agent plays against a human player. The agent learns from its actions and tries to beat the human player.
 
